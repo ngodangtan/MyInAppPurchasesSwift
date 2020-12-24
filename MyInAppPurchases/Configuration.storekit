@@ -1,0 +1,44 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "F8D23D33",
+      "localizations" : [
+        {
+          "description" : "Unlock all app features forever and be cool",
+          "displayName" : "Premium Upgrade",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.example.premium",
+      "referenceName" : "Premium Upgrade",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "DF684D9D",
+      "localizations" : [
+        {
+          "description" : "Become the coolest member of the app",
+          "displayName" : "VIP Upgrade",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.example.vip",
+      "referenceName" : "Unlock VIP",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
